@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+
+# Ignore all files in the images directory
+
+
+# Ignore all files in the images directory
+
+
